@@ -2,7 +2,7 @@
 - 👀 I’m interested in art, museums and tech.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on anything to learn more.
-- 📫 How to reach me Instagram @paulinahesselius
+- 📫 Easier to reach me through Instagram @paulinahesselius
 
 <!---
 paulinahs/paulinahs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
