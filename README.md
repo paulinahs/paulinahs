@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulinahs
 - 👀 I’m interested in art, museums and tech.
-- 🌱 I’m currently dong a Web Dev Bootcamp online.
+- 🌱 I’m currently doing a Full-Stack Bootcamp online.
 - 💞️ I’m looking to collaborate on anything to learn more.
 - 📫 How to reach me on Instagram: personla account @paulinahesselius or creative account @by.paulina.h
 
