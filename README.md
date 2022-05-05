@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulinahs
-- 👀 I’m interested in art, museums and tech.
-- 🌱 I’m currently doing a Full-Stack Bootcamp online.
+- 👀 I’m currently learning Web Dev & Data/SQL with Code First Girls
+- 🌱 Got accepted into the Code First Girls Degree in Full-Stack
 - 💞️ I’m looking to collaborate on anything to learn more.
 - 📫 How to reach me on Instagram: personal account @paulinahesselius or creative account @by.paulina.h
 
