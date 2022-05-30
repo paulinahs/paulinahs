@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @paulinahs
-- 👀 I’m currently learning Web Dev & Data/SQL with Code First Girls
-- 🌱 Got accepted into the Code First Girls Degree in Full-Stack
+- 🌱 Studying a Degree in Full-Stack Develpment with Code First Girls
 - 💞️ I’m looking to collaborate on anything to learn more.
-- 📫 How to reach me on Instagram: personal account @paulinahesselius or creative account @by.paulina.h
+- 📫 Reach me on Instagram:  @paulina.codes
 
 <!---
 paulinahs/paulinahs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
