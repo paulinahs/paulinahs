@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @paulinahs
-- 🌱 Degree in Full-Stack Develpment with Code First Girls
-- 💞️ I’m looking to collaborate on anything to learn more.
+ 👋 Hi, I’m @paulinahs & on instagram I'm @paulina.codes
+ 🌱 Degree in Full-Stack Develpment with Code First Girls
+ 💞️ I’m looking to collaborate on anything to learn more.
+
 
 
 <!---
