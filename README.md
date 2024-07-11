@@ -1,4 +1,4 @@
- - 👋 Hi, I’m @paulinahs & on instagram I'm @paulina.codes
+ - 👋 Hi, I’m @paulinahs & on instagram I'm @by.paulina.h
  - 🌱 Degree in Full-Stack Develpment with Code First Girls
  - 💞️ I’m looking to collaborate on anything to learn more.
 
