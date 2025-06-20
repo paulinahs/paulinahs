@@ -1,5 +1,5 @@
  - 👋 Hi, I’m @paulinahs & on instagram I'm @by.paulina.h
- - 🌱 Degree in Full-Stack Develpment with Code First Girls
+ - 🌱 Currently studying the self-paced Web Development bootcamp at Technigo and have previously studied the Degree in Full-Stack Develpment with Code First Girls
  - 💞️ I’m looking to collaborate on anything to learn more.
 
 
